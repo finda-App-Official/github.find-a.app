@@ -1,5 +1,5 @@
 window.onload = () => {
   setTimeout(() => {
-    window.location.href = "https://www.instagram.com/finda._app/";
+    window.location.href = "https://www.github.com/finda-App-Official/";
   }, 2000);
 };
